@@ -1345,7 +1345,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -1471,7 +1471,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -1597,7 +1597,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -1723,7 +1723,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -1849,7 +1849,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -1975,7 +1975,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2101,7 +2101,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2227,7 +2227,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2353,7 +2353,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2479,7 +2479,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2605,7 +2605,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2731,7 +2731,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2857,7 +2857,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -2983,7 +2983,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3109,7 +3109,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3235,7 +3235,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3361,7 +3361,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3487,7 +3487,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3613,7 +3613,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3739,7 +3739,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3868,7 +3868,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -3997,7 +3997,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4126,7 +4126,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4255,7 +4255,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4384,7 +4384,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4513,7 +4513,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4642,7 +4642,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4771,7 +4771,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -4900,7 +4900,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -5029,7 +5029,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -5158,7 +5158,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -5287,7 +5287,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
@@ -5400,7 +5400,7 @@
       "Parameters": [
         {
           "Path": "Amikacin|Solubility at reference pH",
-          "Value": 185000.0,
+          "Value": 50.0,
           "Unit": "mg/l",
           "ValueOrigin": {
             "Source": "Publication",
